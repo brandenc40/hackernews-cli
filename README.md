@@ -13,7 +13,7 @@ COMMANDS:
    help, h  Shows a list of commands or help for one command
 
 GLOBAL OPTIONS:
-   --limit value  Number of stories to be fetched (default: 10)
+   --limit value  Number of stories to be fetched per page (default: 10)
    --type value   The type of stories to be fetched. Options (top, new, or best): [t b n]
    --help, -h     show help (default: false)
 ```
