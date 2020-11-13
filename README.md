@@ -1,5 +1,7 @@
 # HackerNews CLI
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/brandenc40/hackernews-cli)](https://goreportcard.com/report/github.com/brandenc40/hackernews-cli)
+
 Clean, pretty, and easy to use CLI for Hackernews.
 
 
