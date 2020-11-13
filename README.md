@@ -18,6 +18,10 @@ GLOBAL OPTIONS:
    --help, -h     show help (default: false)
 ```
 
+Main Prompt
+
 ![Main Prompt](https://raw.githubusercontent.com/brandenc40/hackernews-cli/master/screenshots/main-prompt.png)
+
+News Display
 
 ![News Display](https://raw.githubusercontent.com/brandenc40/hackernews-cli/master/screenshots/news-display.png)
