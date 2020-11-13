@@ -1,6 +1,6 @@
 # HackerNews CLI
 
-Easy to use CLI for Hackernews.
+Clean, pretty, and easy to use CLI for Hackernews.
 
 ```bash
 NAME:
