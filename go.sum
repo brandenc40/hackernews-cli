@@ -1,6 +1,4 @@
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
-github.com/brandenc40/hackernews v0.0.0-20201105015515-e497078bed09 h1:66nHji9j5B4xgiwZZiYhunWGgRTa8iy7EY8Mr7emPiA=
-github.com/brandenc40/hackernews v0.0.0-20201105015515-e497078bed09/go.mod h1:huUmFZiwTMpbv/jToeprzQG2/ZWOoSwEpR0LL8M8qq4=
 github.com/brandenc40/hackernews v0.0.0-20201108051855-f42721859f69 h1:FPxT5OpIOTRIUvW5dJYwwVeRmGDW63bzWQM6Uj1IlQI=
 github.com/brandenc40/hackernews v0.0.0-20201108051855-f42721859f69/go.mod h1:huUmFZiwTMpbv/jToeprzQG2/ZWOoSwEpR0LL8M8qq4=
 github.com/buger/goterm v0.0.0-20200322175922-2f3e71b85129 h1:gfAMKE626QEuKG3si0pdTRcr/YEbBoxY+3GOH3gWvl4=
