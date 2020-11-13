@@ -2,7 +2,7 @@
 
 Clean, pretty, and easy to use CLI for Hackernews.
 
-```bash
+```
 NAME:
    HackerNews CLI - Get your news on the terminal
 
