@@ -47,7 +47,7 @@ func HNCliApp() *cli.App {
 		&cli.StringFlag{
 			Name:        "type",
 			DefaultText: "",
-			Usage:       "The type of stories to be fetched",
+			Usage:       "The type of stories to be fetched. Options (top, new, or best): [t b n]",
 		},
 	}
 	app.Action = func(c *cli.Context) error {
