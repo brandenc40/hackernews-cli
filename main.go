@@ -42,7 +42,7 @@ func HNCliApp() *cli.App {
 		&cli.Int64Flag{
 			Name:  "limit",
 			Value: 10,
-			Usage: "Number of stories to be fetched",
+			Usage: "Number of stories to be fetched per page",
 		},
 		&cli.StringFlag{
 			Name:        "type",
